@@ -1,0 +1,6 @@
+Model,MSE,R2 Score
+Linear Regression,0.55,0.46
+Random Forest,0.21,0.79
+Neural Network,0.63,0.38
+XGBoost,0.20,0.80
+SVR,1.01,0.00
